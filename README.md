@@ -1,4 +1,4 @@
-# SWYNEX-Web-Security-Review
+
 # SWYNEX-Web-Security-Review
 
 ## Web Security Review
